@@ -7,8 +7,7 @@
     <li> 📋 Começando a migrar para a área de tecnologia completei uma Pós Graduação em Gestão de Projetos e Metodologias Ágeis voltada para a área Software.</li>
     <li> 🧑‍💻 E atualmente estou fazendo minha segunda pós graduação em Engenharia de Software.</li>
     <li> 🤝 Tenho interesse em colaborar com projetos de desenvolvimento, podendo ser tanto BackEnd quanto FrontEnd.</li>
-    <li> Você pode me contatar pelo meu email <a href="mailto:pedrolcr.dev@gmail.com">pedrolcr.dev@gmail.com</a>.</li>
-    <li> Você pode me contatar pelo meu LinkedIn <a href="https://www.linkedin.com/in/pedro-lcarvalho/">Pedro Carvalho</a>.</li>
+    <li> 📞 Você pode me contatar pelo meu email <a href="mailto:pedrolcr.dev@gmail.com">pedrolcr.dev@gmail.com</a>, ou pelo meu LinkedIn <a href="https://www.linkedin.com/in/pedro-lcarvalho/">Pedro Carvalho</a>.</li>
 </ul>
 
 ## Minhas Habilidades
